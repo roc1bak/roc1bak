@@ -16,7 +16,7 @@ personal projects, courses and hands-on experience.
 - **Databases:** SQL
 - **Systems & Networks:** Linux, Computer Networks
 - **Tools:** Git, GitHub, Microsoft Office
-- **IoT & Hardware:** ESP32, Arduino, Ultrasonic Sensors
+- **IoT & Hardware:** ESP32 and Arduino
 
 ### 🚀 Projects
 
