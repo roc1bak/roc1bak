@@ -40,14 +40,14 @@ I've worked on projects involving:
 
 ### 📜 Certifications
 
-- **Cybersecurity** — SoulCode Academy + KPMG
+- **Cybersecurity** — SoulCode Academy
 - **Python Programming Language** — Fundação Bradesco
 - **Introduction to Cybersecurity** — Cisco
 
 ### 🌎 Languages
 
 - 🇧🇷 Portuguese — Native
-- 🇺🇸 English — Intermediate
+- 🇺🇸 English — Advanced
 
 ### 🔗 Find me
 
