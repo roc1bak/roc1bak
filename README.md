@@ -1,16 +1,59 @@
-## Hi there 👋
+# Hey there! 👋
 
-<!--
-**roc1bak/roc1bak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Gustavo**, a Computer Engineering student from Brazil.
 
-Here are some ideas to get you started:
+I'm interested in technology, programming and cybersecurity, always looking
+for opportunities to learn, build projects and turn ideas into practical solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently studying **Computer Engineering** and developing my skills through
+personal projects, courses and hands-on experience.
+
+### 💻 Technologies & Tools
+
+- **Programming:** Python, JavaScript, C/C++
+- **Cybersecurity:** NIST, ISO 27001, Information Security, Risk Analysis
+- **Web:** HTML5, CSS3
+- **Databases:** SQL
+- **Systems & Networks:** Linux, Computer Networks
+- **Tools:** Git, GitHub, Microsoft Office
+- **IoT & Hardware:** ESP32, Arduino, Ultrasonic Sensors
+
+### 🚀 Projects
+
+I've worked on projects involving:
+
+- 🔐 Cybersecurity and risk analysis
+- 📊 Cybersecurity process modeling with BPMN
+- 💧 ESP32 water tank monitoring system
+- 🤖 Arduino automation projects
+- 🌐 Web development with HTML, CSS and JavaScript
+- 🐍 Python projects and data structures
+- 🚗 Autonomous and sensor-based projects
+
+### 📚 Currently
+
+- 🎓 Studying **Computer Engineering**
+- 🛡️ Improving my knowledge of **Cybersecurity**
+- 🐍 Developing my skills with **Python**
+- 🔧 Building projects involving **IoT and embedded systems**
+- 💡 Learning through practical projects and new challenges
+
+### 📜 Certifications
+
+- **Cybersecurity** — SoulCode Academy + KPMG
+- **Python Programming Language** — Fundação Bradesco
+- **Introduction to Cybersecurity** — Cisco
+
+### 🌎 Languages
+
+- 🇧🇷 Portuguese — Native
+- 🇺🇸 English — Intermediate
+
+### 🔗 Find me
+
+- 💼 [LinkedIn](https://linkedin.com/in/gustavorocumback-723237298/)
+- 💻 [GitHub](https://github.com/roc1bak)
+
+---
+
+⭐ Always learning. Always building.
